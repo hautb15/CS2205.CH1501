@@ -1,2 +1,4 @@
 # CS2205.CH1501
-Phương pháp Nghiên cứu Khoa học - thầy Lê Đình Duy
+Trần Bình Hậu - CH2001004
+Trần Văn San - CH2001013
+Nguyễn Thanh Phong - CH2001012
