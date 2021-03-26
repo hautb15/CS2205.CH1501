@@ -1,7 +1,8 @@
 # CS2205.CH1501
 
-> Môn học: [Phương pháp nghiên cứu khoa học](https://classroom.google.com/u/1/c/MjU1MDMxNDMzMDk5)
-> Giảng viên: PGS.TS Lê Đình Duy
+Môn học: [Phương pháp nghiên cứu khoa học](https://classroom.google.com/u/1/c/MjU1MDMxNDMzMDk5)
+
+Giảng viên: PGS.TS Lê Đình Duy
 
 ## Thông tin cá nhân
 
