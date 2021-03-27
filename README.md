@@ -17,8 +17,8 @@ Giảng viên: PGS.TS Lê Đình Duy
 ## Nhóm
 
 - Trần Bình Hậu - CH2001004 ([Github Repo](https://github.com/hautb15/CS2205.CH1501))
-- Nguyễn Thanh Phong - CH2001012 ([Github Repo](https://github.com/phongpirik/CS2205.CH1501))
-- Trần Văn San - CH2001013 ([Github Repo](https://github.com/CS2225CH2001013/CS2205.CH1501))
+- Nguyễn Thanh Phong (phongnt.15@grad.uit.edu.vn) - CH2001012 ([Github Repo](https://github.com/phongpirik/CS2205.CH1501))
+- Trần Văn San (santv.15@grad.uit.edu.vn) - CH2001013 ([Github Repo](https://github.com/CS2225CH2001013/CS2205.CH1501))
 
 ## Hoạt động
 
@@ -33,6 +33,8 @@ Giảng viên: PGS.TS Lê Đình Duy
 ### Tuần 2
 
 - Hoàn thành QT11: [Google search nâng cao](https://classroom.google.com/u/2/c/MjU1MDMxNDMzMDk5/m/Mjk4NTY3NTk0MjA4/details)
+- Hoàn thành QT12: [Cách sử dụng Google Scholar trong tìm kiếm, NCKH](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT12.md)
+- (....)
 
 
 
