@@ -34,6 +34,9 @@ Giảng viên: PGS.TS Lê Đình Duy
 
 - Hoàn thành QT11: [Google search nâng cao](https://classroom.google.com/u/2/c/MjU1MDMxNDMzMDk5/m/Mjk4NTY3NTk0MjA4/details)
 - Hoàn thành QT12: [Cách sử dụng Google Scholar trong tìm kiếm, NCKH](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT12.md)
+- Hoàn thành QT13: [So sánh các sites tài liệu NCKH](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT13.md)
+- Hoàn thành QT14: [Tạo MindMap liên quan Science Articles](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT14.md)
+- Hoàn thành QT15: [Sử dụng Overleaf](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT15.md)
 - (....)
 
 
