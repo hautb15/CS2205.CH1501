@@ -39,6 +39,7 @@ Giảng viên: PGS.TS Lê Đình Duy
 - Hoàn thành QT15: [Sử dụng Overleaf](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT15.md)
 - Hoàn thành QT16: [Phần mềm quản lý tài liệu tham khảo - trích dẫn](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT16.md)
 - Hoàn thành QT17: [Xếp hạng hội nghị - tạp chí khoa học](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT17.md)
+- Hoàn thành QT18: [Sử dụng ConnectedPapers](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT18.md)
 - (....)
 
 
