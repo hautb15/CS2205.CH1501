@@ -6,10 +6,10 @@ Trường ĐH X muốn khắc phục tình trạng SV bỏ học nữa chừng v
     - Phân tích thực trạng, xác định các nguyên nhân dẫn đến sinh viên trường ĐH X bỏ học.
     - Đề xuất các biện pháp quản lý nhằm khắc phục tình trạng sinh viên bỏ học tại trường ĐH X.
 3. Các nội dung và phương pháp
-  a) Nội dung
+  * Nội dung
     - Những vấn đề lý luận và thực tiễn về tình trạng sinh viên bỏ học tại trường ĐH X.
     - Yêu cầu và biện pháp khắc phục tình trạng sinh viên bỏ học tại trường ĐH X.
-  b) Phương pháp
+  * Phương pháp
     - Nhóm các phương pháp nghiên cứu lý luận: 
       Thu thập các tài liệu, phân tích, tổng hợp, đánh giá, hệ thống hóa và mô hình hóa khái quát lý luận.
     - Nhóm các phương pháp nghiên cứu thực tiễn:
@@ -17,4 +17,4 @@ Trường ĐH X muốn khắc phục tình trạng SV bỏ học nữa chừng v
       Thu thập các thông tin cần thiết bằng điện thoại hoặc email từ gia đình của các sinh viên bỏ học.
       Tổ chức thảo luận, trao đổi với các lực lượng quản lý và sinh viên về công tác quản lý trong quá trình đào tạo.
 4. Kết quả dự kiến
-    Kết quả nghiên cứu của đề tài là cơ sở để các bộ phận quản lý của trường ĐH X sử dụng nhằm ngăn ngừa, khắc phục tình trạng sinh viên bỏ học.
+    - Kết quả nghiên cứu của đề tài là cơ sở để các bộ phận quản lý của trường ĐH X sử dụng nhằm ngăn ngừa, khắc phục tình trạng sinh viên bỏ học.
