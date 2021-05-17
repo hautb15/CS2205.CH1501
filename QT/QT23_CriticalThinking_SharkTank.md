@@ -8,7 +8,7 @@ Bên cạnh đó, một nhà đầu tư khác là Shark Hưng (Phạm Thanh Hưn
 # Phân tích và nhận định
 Tôi nhận định rằng đây là những câu nói bình thường và không mang tính xúc phạm phụ nữ. Cụ thể:
 
-    Về câu nói của Shark Phú: "Anh chỉ mãi nhìn em nên chẳng thấy gì đặc biệt ở chiếc xe cả". Trước đó là việc chị Nguyễn Thị Thu Hằng có đạp xe vào chương trình để giới thiệu sản phẩm. Đây là câu nói bình thường bởi vì mới bắt đầu vào thì chị xuất hiện cùng chiếc xe đạp, khi đó các Shark chưa biết sản phẩm của chị mang đến là gì nên Shark Phú chỉ chú ý đến người gọi vốn là vấn đề bình thường.
+   Về câu nói của Shark Phú: "Anh chỉ mãi nhìn em nên chẳng thấy gì đặc biệt ở chiếc xe cả". Trước đó là việc chị Nguyễn Thị Thu Hằng có đạp xe vào chương trình để giới thiệu sản phẩm. Đây là câu nói bình thường bởi vì mới bắt đầu vào thì chị xuất hiện cùng chiếc xe đạp, khi đó các Shark chưa biết sản phẩm của chị mang đến là gì nên Shark Phú chỉ chú ý đến người gọi vốn là vấn đề bình thường.
     
     
     
