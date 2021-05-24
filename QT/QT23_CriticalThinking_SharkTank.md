@@ -1,6 +1,6 @@
 # Vấn đề phản biện
  Về câu chuyện liên quan đến các câu nói đùa cợt của các doanh nhân Nguyễn Xuân Phú, Phạm Thanh Hưng dành cho nữ CEO gọi vốn trong chương trình Shark Tank Vietnam.
- Những câu nói gây ra tranh cãi tr
+ Những câu nói gây ra tranh cãi trong công đồng về việc xúc phạm phụ nữ
 
 # Phân tích và nhận định
 Tôi nhận định rằng đây là những câu nói bình thường và không mang tính xúc phạm phụ nữ. Cụ thể:
@@ -11,4 +11,4 @@ Tôi nhận định rằng đây là những câu nói bình thường và khôn
     
    Một tình huống khác gây tranh cãi từ Shark Phú với câu nói: "Em không cần giải thích gì thêm về business, với anh chỉ cần liếc mắt thì anh biết business như thế nào rồi nên anh đã nói từ đầu là anh không quan tâm đến business, anh cũng không quan tâm đến sản phẩm anh chỉ quan tâm đến em thôi.". Với một nhà kinh doanh và nhà đầu tư có nhiều kinh nghiệm trong các lĩnh vực, khi nhìn vào sản phẩm với nhiều năm kinh nghiệm trong việc kinh doanh thì Shack Phú đã thừa biết bunisness nó như thế nào. Còn về CEO Nguyễn Thị Thu Hằng lập Wiibike, người lãnh đạo trải qua nhiều khó khăn với sản phầm của mình, người tạo nên một phần thành công của Wiibike vậy thì Shank chỉ quan tâm đến người sáng lập, người mang đến thành công hơn cho sản phẩm mình đầu tư kiếm về lợi nhuận cho mình.
     
-   Vậy về câu chuyện liên quan đến các câu nói đùa cợt của các doanh nhân Nguyễn Xuân Phú, Phạm Thanh Hưng dành cho nữ CEO gọi vốn trong chương trình Shark Tank Vietnam xét về tổng thể chương trình thì đây đơn giản chỉ là sự quan tâm của 1 nhà đầu tư đối với một người cần đầu tư về mặt kinh doanh, không có gì mang tính chất xúc phạm phụ nữ
+   Vậy về câu chuyện liên quan đến các câu nói đùa cợt của các doanh nhân Nguyễn Xuân Phú, Phạm Thanh Hưng dành cho nữ CEO gọi vốn trong chương trình Shark Tank Vietnam xét về tổng thể chương trình thì đây đơn giản chỉ là sự quan tâm của 1 nhà đầu tư đối với một người cần đầu tư về mặt kinh doanh, không có gì mang tính chất xúc phạm phụ nữ.
