@@ -37,6 +37,7 @@ Giảng viên: PGS.TS Lê Đình Duy
 - Hoàn thành QT17: [Xếp hạng hội nghị - tạp chí khoa học](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT17.md)
 - Hoàn thành QT18: [Sử dụng ConnectedPapers](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT18.md)
 - Hoàn thành QT31: [Reading Papers](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT31.md)
+- Hoàn thành QT32: [Reading Papers](https://github.com/hautb15/CS2205.CH1501/blob/main/QT/QT32.md)
 
 
 
